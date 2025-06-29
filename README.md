@@ -82,7 +82,6 @@
 * Django
 * MySQL 
 * AWS EC2, S3, RDS
-* JWT 인증 / OAuth2
 
 ### 🧬 기타
 
